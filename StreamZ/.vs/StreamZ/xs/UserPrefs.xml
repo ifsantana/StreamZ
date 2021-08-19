@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{D6E46033-4B48-4E8F-A253-6B25E37BB908}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="StreamZ.Api/Controllers/StreamController.cs">
+    <Files>
+      <File FileName="StreamZ.Api/Controllers/WeatherForecastController.cs" Line="10" Column="5" />
+      <File FileName="StreamZ.Api/Controllers/StreamController.cs" Line="28" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="StreamZ" expanded="True">
+            <Node name="StreamZ.Api" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="StreamController.cs" selected="True" />
+              </Node>
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.StreamZ.Api FirstBuild="True" PreferredExecutionTarget="/Applications/Opera.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
